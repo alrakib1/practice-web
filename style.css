@@ -55,7 +55,7 @@
     cursor: pointer;
 }
 .btn:hover{
-    color: yellowgreen;
+    color: blueviolet;
 }
 .about-container{
     display: flex;
