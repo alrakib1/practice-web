@@ -55,7 +55,8 @@
     cursor: pointer;
 }
 .btn:hover{
-    color: blueviolet;
+    color: rgba(255, 0, 0, 0.753);
+    background-color: aquamarine;
 }
 .about-container{
     display: flex;
